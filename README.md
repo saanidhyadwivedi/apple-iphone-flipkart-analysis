@@ -36,13 +36,13 @@ To answer key business questions such as:
 ## 📈 Visualizations
 
 ### Top Rated iPhones
-![Top Rated](images/top_rated_iphones.png)
+![Top Rated](./top_rated_iphones.png)
 
 ### Sale Price vs Ratings
-![Price vs Ratings](images/saleprice_vs_ratings.png)
+![Price vs Ratings](./saleprice_vs_ratings.png)
 
 ### Discount vs Ratings
-![Discount vs Ratings](images/discount_vs_ratings.png)
+![Discount vs Ratings](./discount_vs_ratings.png)
 
 ---
 
